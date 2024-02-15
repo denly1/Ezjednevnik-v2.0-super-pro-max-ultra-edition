@@ -1,0 +1,9 @@
+﻿<Application x:Class="Ezjednevnik_v2._0_super_pro_max_ultra_edition.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Ezjednevnik_v2._0_super_pro_max_ultra_edition"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
